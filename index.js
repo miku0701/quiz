@@ -20,7 +20,7 @@ const quiz = [
       '238,900 miles',
       '248,900 miles',
       '258,900 miles',
-      '268,900 miles"',
+      '268,900 miles',
     ],
     correct: '268,900 miles',
   },
